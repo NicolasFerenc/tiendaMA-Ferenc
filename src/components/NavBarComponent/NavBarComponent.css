@@ -1,0 +1,19 @@
+.navbar{
+    background-color: bisque;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.lista {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.lista li {
+    margin-left: 50px;
+}
